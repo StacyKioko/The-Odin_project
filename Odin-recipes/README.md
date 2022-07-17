@@ -5,7 +5,7 @@ This is the first [Odin Project](https://www.theodinproject.com/lessons/foundati
 
 The different receipes created are:
 <ul>
-*[The Mediteranean Salad](https://github.com/StacyKioko/The-Odin_project/blob/main/Odin-recipes/recipes/salad.html)*
-*[French Toast](https://github.com/StacyKioko/The-Odin_project/blob/main/Odin-recipes/recipes/toast.html)*
-*[Taco Tuesday](https://github.com/StacyKioko/The-Odin_project/blob/main/Odin-recipes/recipes/taco.html)*
+<li>**[The Mediteranean Salad](https://github.com/StacyKioko/The-Odin_project/blob/main/Odin-recipes/recipes/salad.html)**
+<li>**[French Toast](https://github.com/StacyKioko/The-Odin_project/blob/main/Odin-recipes/recipes/toast.html)**
+<li>**[Taco Tuesday](https://github.com/StacyKioko/The-Odin_project/blob/main/Odin-recipes/recipes/taco.html)**
 </ul>
